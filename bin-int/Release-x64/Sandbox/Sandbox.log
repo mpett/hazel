@@ -1,6 +1,7 @@
-﻿  Generating code
-  0 of 1 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+﻿  SandboxApp.cpp
+c:\dev\hazel\sandbox\src\sandboxapp.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
+     Creating library C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.lib and object C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.exp
+  Generating code
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   Sandbox.vcxproj -> C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.exe
