@@ -9,3 +9,4 @@
 #else
 	#error Hazel only supports Windows
 #endif
+
