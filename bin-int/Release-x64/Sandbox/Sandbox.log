@@ -1,7 +1,0 @@
-﻿  SandboxApp.cpp
-c:\dev\hazel\sandbox\src\sandboxapp.cpp(18): warning C4326: return type of 'main' should be 'int' instead of 'void'
-     Creating library C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.lib and object C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.exp
-  Generating code
-  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  Sandbox.vcxproj -> C:\dev\Hazel\bin\Release-x64\Sandbox\Sandbox.exe
